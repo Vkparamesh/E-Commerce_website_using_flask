@@ -1,19 +1,21 @@
+![1668850735951](https://user-images.githubusercontent.com/104810544/202844746-564aef42-1722-4508-a16b-cc8b321e0f48.jpg)
 
-# IBM-Project-40862-1660636795
+# Deployment link :-  https://www.youtube.com/watch?v=PijPa1Nt_zU  
 
-# Smart Fashion Recommender Application
+# About this Project
+The user will login into the website and go through the products available on the website.  Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products.  Get the recommendations based on information provided by the user.
 
 
-## Category: Cloud App Development
 
+<img src="https://devtechnosys.com/insights/wp-content/uploads/2020/11/chatbots.gif" alt="🌱" width="150" height="150"> <span>
+<img src="https://i.pinimg.com/originals/58/31/1e/58311e3f691d9b4efd5e4d3d96f846b9.gif" alt="🌱" width="200" height="150"> </span><span><img src="https://cdn.dribbble.com/users/790118/screenshots/6971331/media/d1e6cf91d6df3a0ba4dcdffd0b4a05f2.gif" alt="🌱" width="200" height="150"></span>
+
+# About Team 
 
 **Batch Name :** B8-2A4E
 
----
+**Team ID :** PNT2022TMID38912 
 
-**Team ID :** PNT2022TMID38912
-
-**Team Size :** 4
 
 **Team Leader :** PARAMESHWARAN V K
 
@@ -23,12 +25,12 @@
 
 **Team member :** DAYANITHI S
 
----
+# Mentor
 **Industry Mentor(s) Name :** Krishna Chaitanya
 
 **Faculty Mentor(s) Name :** R SIVARANJINI
 
----
+# About College
 
 **Degree	:**	
 Bachelor of Engineering/Technology
@@ -38,10 +40,6 @@ Computer Science Engineering
 
 **College	:**	
 KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY
-
----
-
-
 
 
 
